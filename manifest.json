@@ -1,0 +1,47 @@
+{
+  "name": "Aaj Tak Web App",
+  "icons": [{
+    "src": "launcher-icon-0-75x.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": 0.75
+  }, {
+    "src": "launcher-icon-1x.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": 1.0
+  }, {
+    "src": "launcher-icon-1-5x.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": 1.5
+  }, {
+    "src": "https://stglite.aajtak.in/assets/images/medium-icon.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": 2.0
+  }, {
+    "src": "https://stglite.aajtak.in/assets/images/ms-touch-icon-144x144-preco.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": 3.0
+  }, {
+    "src": "https://stglite.aajtak.in/assets/images/icon-128x128.png",
+    "sizes": "128x128",
+    "type": "image/png",
+    "density": 3.5
+  }, {
+    "src": "https://stglite.aajtak.in/assets/images/chrome-touch-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": 4.0
+  }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "date": "27-07-16",
+  "version": "1.0",
+  "url": "m.indiatoday.in/story2.jsp?id=701955",
+  "image": "http://media2.intoday.in/indiatoday/images/ITG-logo-main.png",
+  "error": "No available news articles yet. Please check back soon!"
+}
